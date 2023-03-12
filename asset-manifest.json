@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dee8596.css",
+    "main.js": "/static/js/main.bd556ce8.js",
+    "static/media/adawalia-logo.png": "/static/media/adawalia-logo.57e6a003a2b660e06b07.png",
+    "index.html": "/index.html",
+    "main.8dee8596.css.map": "/static/css/main.8dee8596.css.map",
+    "main.bd556ce8.js.map": "/static/js/main.bd556ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dee8596.css",
+    "static/js/main.bd556ce8.js"
+  ]
+}
